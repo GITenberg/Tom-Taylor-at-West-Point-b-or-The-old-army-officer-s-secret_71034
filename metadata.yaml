@@ -1,0 +1,30 @@
+_repo: Tom-Taylor-at-West-Point-b-or-The-old-army-officer-s-secret_71034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+    wikipedia: https://en.wikipedia.org/wiki/Frank_V._Webster
+description: ''
+gutenberg_issued: '2023-06-24'
+identifiers:
+  gutenberg: '71034'
+language: en
+pgterms:marc905: 20220622091356webster
+pgterms:marc906: '1915'
+pgterms:marc907: us
+production_note: David Edwards and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bCupples & Leon Company, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military education -- Juvenile fiction'
+- !lcsh 'United States Military Academy -- Juvenile fiction'
+- !lcsh 'Military cadets -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Tom Taylor at West Point : $b or, The old army officer''s secret'
+url: http://www.gutenberg.org/ebooks/71034
